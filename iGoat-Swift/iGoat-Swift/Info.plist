@@ -33,11 +33,6 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
-	<key>NSAppTransportSecurity</key>
-	<dict>
-		<key>NSAllowsArbitraryLoads</key>
-		<true/>
-	</dict>
 	<key>NSFaceIDUsageDescription</key>
 	<string>iGoat would like to use FaceID to authenticate you.</string>
 	<key>UILaunchStoryboardName</key>
